@@ -39,7 +39,7 @@ namespace projetodacris.Controllers
         [HttpPost]
         public string Cris()
         {
-            return $"Olá";
+            return $"Olá Cris, aqui e a Thamy";
         }
     }
 }
